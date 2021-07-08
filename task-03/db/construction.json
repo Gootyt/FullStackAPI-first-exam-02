@@ -1,0 +1,252 @@
+[{
+  "id": 1,
+  "material": "Stone",
+  "subcontract": "Electrical and Fire Alarm",
+  "costCode": "2-923 - Seeding and Soil Supplements"
+}, {
+  "id": 2,
+  "material": "Plexiglass",
+  "subcontract": "Electrical",
+  "costCode": "13-175 - Ice Rinks"
+}, {
+  "id": 3,
+  "material": "Glass",
+  "subcontract": "Drywall & Acoustical (FED)",
+  "costCode": "15-950 - Testing, Adjusting, and Balancing"
+}, {
+  "id": 4,
+  "material": "Steel",
+  "subcontract": "Waterproofing & Caulking",
+  "costCode": "6-200 - Finish Carpentry"
+}, {
+  "id": 5,
+  "material": "Stone",
+  "subcontract": "Retaining Wall and Brick Pavers",
+  "costCode": "10-350 - Flagpoles"
+}, {
+  "id": 6,
+  "material": "Stone",
+  "subcontract": "Drilled Shafts",
+  "costCode": "8 - Doors and Windows"
+}, {
+  "id": 7,
+  "material": "Aluminum",
+  "subcontract": "Curb & Gutter",
+  "costCode": "3-350 - Concrete Finishing"
+}, {
+  "id": 8,
+  "material": "Aluminum",
+  "subcontract": "Waterproofing & Caulking",
+  "costCode": "2-870 - Sculpture/Ornamental"
+}, {
+  "id": 9,
+  "material": "Brass",
+  "subcontract": "Rebar & Wire Mesh Install",
+  "costCode": "2-823 - PVC Fences and Gates"
+}, {
+  "id": 10,
+  "material": "Rubber",
+  "subcontract": "Doors, Frames & Hardware",
+  "costCode": "8-300 - Specialty Doors"
+}, {
+  "id": 11,
+  "material": "Steel",
+  "subcontract": "Wall Protection",
+  "costCode": "10-350 - Flagpoles"
+}, {
+  "id": 12,
+  "material": "Vinyl",
+  "subcontract": "Granite Surfaces",
+  "costCode": "1-903 - Hazardous Materials Abatement"
+}, {
+  "id": 13,
+  "material": "Steel",
+  "subcontract": "RF Shielding",
+  "costCode": "11-030 - Teller and Service Equipment"
+}, {
+  "id": 14,
+  "material": "Aluminum",
+  "subcontract": "Structural and Misc Steel (Fabrication)",
+  "costCode": "10-260 - Wall and Corner Guards"
+}, {
+  "id": 15,
+  "material": "Granite",
+  "subcontract": "Granite Surfaces",
+  "costCode": "1-514 - Temporary Heating, Cooling and Ventilation"
+}, {
+  "id": 16,
+  "material": "Rubber",
+  "subcontract": "HVAC",
+  "costCode": "13-170 - Tubs and Pools"
+}, {
+  "id": 17,
+  "material": "Stone",
+  "subcontract": "Elevator",
+  "costCode": "13-080 - Sound, Vibration, and Seismic Control"
+}, {
+  "id": 18,
+  "material": "Plexiglass",
+  "subcontract": "Construction Clean and Final Clean",
+  "costCode": "2-000 - General"
+}, {
+  "id": 19,
+  "material": "Wood",
+  "subcontract": "Site Furnishings",
+  "costCode": "10-880 - Scales"
+}, {
+  "id": 20,
+  "material": "Brass",
+  "subcontract": "Curb & Gutter",
+  "costCode": "1-600 - Product Requirements (Scope of Work)"
+}, {
+  "id": 21,
+  "material": "Granite",
+  "subcontract": "Soft Flooring and Base",
+  "costCode": "11-680 - Office Equipment"
+}, {
+  "id": 22,
+  "material": "Vinyl",
+  "subcontract": "Overhead Doors",
+  "costCode": "5-500 - Metal Fabrications"
+}, {
+  "id": 23,
+  "material": "Rubber",
+  "subcontract": "Termite Control",
+  "costCode": "2-932 - PLants and Bulbs"
+}, {
+  "id": 24,
+  "material": "Aluminum",
+  "subcontract": "Soft Flooring and Base",
+  "costCode": "2-230 - Site Clearing"
+}, {
+  "id": 25,
+  "material": "Vinyl",
+  "subcontract": "Prefabricated Aluminum Metal Canopies",
+  "costCode": "11-020 - Security and Vault Equipment"
+}, {
+  "id": 26,
+  "material": "Plastic",
+  "subcontract": "Masonry",
+  "costCode": "14-200 - Elevators"
+}, {
+  "id": 27,
+  "material": "Granite",
+  "subcontract": "Roofing (Asphalt)",
+  "costCode": "14-200 - Elevators"
+}, {
+  "id": 28,
+  "material": "Glass",
+  "subcontract": "Glass & Glazing",
+  "costCode": "2-315 - Excavation"
+}, {
+  "id": 29,
+  "material": "Plastic",
+  "subcontract": "Casework",
+  "costCode": "16-050 - Basic Electrical Materials and Methods"
+}, {
+  "id": 30,
+  "material": "Vinyl",
+  "subcontract": "Soft Flooring and Base",
+  "costCode": "13-260 - Sludge Conditioning Systems"
+}, {
+  "id": 31,
+  "material": "Granite",
+  "subcontract": "Sitework & Site Utilities",
+  "costCode": "3-300 - Footings"
+}, {
+  "id": 32,
+  "material": "Steel",
+  "subcontract": "Doors, Frames & Hardware",
+  "costCode": "5-300 - Metal Deck"
+}, {
+  "id": 33,
+  "material": "Vinyl",
+  "subcontract": "Drywall & Acoustical (MOB)",
+  "costCode": "11-040 - Ecclesiastical Equipment"
+}, {
+  "id": 34,
+  "material": "Plexiglass",
+  "subcontract": "Site Furnishings",
+  "costCode": "8-500 - Windows"
+}, {
+  "id": 35,
+  "material": "Glass",
+  "subcontract": "Asphalt Paving",
+  "costCode": "1-012 - Superintendent"
+}, {
+  "id": 36,
+  "material": "Aluminum",
+  "subcontract": "Site Furnishings",
+  "costCode": "2-825 - Wood Fences and Gates"
+}, {
+  "id": 37,
+  "material": "Brass",
+  "subcontract": "HVAC",
+  "costCode": "2-780 - Clay Unit Pavers"
+}, {
+  "id": 38,
+  "material": "Rubber",
+  "subcontract": "Curb & Gutter",
+  "costCode": "5-050 - Basic Metal Materials and Methods"
+}, {
+  "id": 39,
+  "material": "Aluminum",
+  "subcontract": "Roofing (Metal)",
+  "costCode": "15-300 - Fire Protection Piping"
+}, {
+  "id": 40,
+  "material": "Plexiglass",
+  "subcontract": "Marlite Panels (FED)",
+  "costCode": "10-880 - Scales"
+}, {
+  "id": 41,
+  "material": "Vinyl",
+  "subcontract": "Electrical",
+  "costCode": "2-200 - Site Preparation"
+}, {
+  "id": 42,
+  "material": "Aluminum",
+  "subcontract": "Exterior Signage",
+  "costCode": "10-750 - Telephone Specialties"
+}, {
+  "id": 43,
+  "material": "Wood",
+  "subcontract": "HVAC",
+  "costCode": "2-781 - Asphalt Pavers"
+}, {
+  "id": 44,
+  "material": "Glass",
+  "subcontract": "Overhead Doors",
+  "costCode": "4-500 - Refractories"
+}, {
+  "id": 45,
+  "material": "Vinyl",
+  "subcontract": "Granite Surfaces",
+  "costCode": "10-670 - Storage Shelving"
+}, {
+  "id": 46,
+  "material": "Rubber",
+  "subcontract": "Construction Clean and Final Clean",
+  "costCode": "2-917 - Soil Preparation"
+}, {
+  "id": 47,
+  "material": "Steel",
+  "subcontract": "Asphalt Paving",
+  "costCode": "2-740 - Flexible Pavement Asphalt Pavement"
+}, {
+  "id": 48,
+  "material": "Wood",
+  "subcontract": "Drilled Shafts",
+  "costCode": "11-280 - Hydraulic Gates and Valves"
+}, {
+  "id": 49,
+  "material": "Brass",
+  "subcontract": "Electrical and Fire Alarm",
+  "costCode": "2-932 - PLants and Bulbs"
+}, {
+  "id": 50,
+  "material": "Wood",
+  "subcontract": "Casework",
+  "costCode": "13-600 - Solar and Wind Energy Equipment"
+}]
+

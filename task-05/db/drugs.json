@@ -1,0 +1,301 @@
+[{
+    "id": 1,
+    "name": "Pyrithione Zinc",
+    "brand": "Neutrogena Tgel Daily Control 2 in 1",
+    "price": 1706,
+    "stock": 11
+  }, {
+    "id": 2,
+    "name": "enoxaparin sodium",
+    "brand": "Lovenox",
+    "price": 2219,
+    "stock": 23
+  }, {
+    "id": 3,
+    "name": "Guaifenesin",
+    "brand": "Rx Act Tussin Chest Congestion",
+    "price": 1868,
+    "stock": 65
+  }, {
+    "id": 4,
+    "name": "Escitalopram Oxalate",
+    "brand": "Escitalopram",
+    "price": 2204,
+    "stock": 1
+  }, {
+    "id": 5,
+    "name": "PROCAINAMIDE HYDROCHLORIDE",
+    "brand": "Procainamide Hydrochloride",
+    "price": 1574,
+    "stock": 47
+  }, {
+    "id": 6,
+    "name": "penicillium chrysogenum var. chrysogenum",
+    "brand": "Pleo Not",
+    "price": 1842,
+    "stock": 91
+  }, {
+    "id": 7,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE, AND ZINC OXIDE",
+    "brand": "IOPE SUPER VITAL",
+    "price": 1032,
+    "stock": 2
+  }, {
+    "id": 8,
+    "name": "APAP 500 mg Phenylephrine HCL 5 mg Chlorpheniramine maleate 2 mg",
+    "brand": "hybrid CF",
+    "price": 1847,
+    "stock": 55
+  }, {
+    "id": 9,
+    "name": "Alcohol",
+    "brand": "Frosted cranberry anti-bacterial SCENTED HAND SANITIZER",
+    "price": 943,
+    "stock": 42
+  }, {
+    "id": 10,
+    "name": "Amlodipine Besylate",
+    "brand": "Amlodipine Besylate",
+    "price": 997,
+    "stock": 20
+  }, {
+    "id": 11,
+    "name": "Eucalyptol, menthol, methyl salicylate, thymol",
+    "brand": "Tartar control plus",
+    "price": 941,
+    "stock": 29
+  }, {
+    "id": 12,
+    "name": "Benzethonium Chloride",
+    "brand": "Zylast XP Antiseptic",
+    "price": 1966,
+    "stock": 48
+  }, {
+    "id": 13,
+    "name": "Chlorpheniramine Maleate",
+    "brand": "Allergy Time",
+    "price": 1967,
+    "stock": 98
+  }, {
+    "id": 14,
+    "name": "AVEENO",
+    "brand": "AVEENO",
+    "price": 2217,
+    "stock": 85
+  }, {
+    "id": 15,
+    "name": "buprenorphine hydrochloride and naloxone hydrochloride",
+    "brand": "suboxone",
+    "price": 2046,
+    "stock": 89
+  }, {
+    "id": 16,
+    "name": "Treatment Set TS333312",
+    "brand": "Treatment Set TS333312",
+    "price": 1573,
+    "stock": 90
+  }, {
+    "id": 17,
+    "name": "ALUMINUM CHLOROHYDRATE",
+    "brand": "LBEL",
+    "price": 694,
+    "stock": 38
+  }, {
+    "id": 18,
+    "name": "Methocarbamol",
+    "brand": "Methocarbamol",
+    "price": 2081,
+    "stock": 66
+  }, {
+    "id": 19,
+    "name": "doxycycline hyclate",
+    "brand": "Doxycycline Hyclate",
+    "price": 558,
+    "stock": 54
+  }, {
+    "id": 20,
+    "name": "Quinidine Sulfate",
+    "brand": "Quinidine Sulfate",
+    "price": 2459,
+    "stock": 25
+  }, {
+    "id": 21,
+    "name": "Haloperidol",
+    "brand": "Haloperidol",
+    "price": 839,
+    "stock": 86
+  }, {
+    "id": 22,
+    "name": "OCTINOXATE, TITANIUM DIOXIDE",
+    "brand": "Capture Totale Radiance Restoring Serum Foundation SPF 15 020",
+    "price": 1817,
+    "stock": 48
+  }, {
+    "id": 23,
+    "name": "Metoprolol Tartrate",
+    "brand": "Metoprolol Tartrate",
+    "price": 532,
+    "stock": 67
+  }, {
+    "id": 24,
+    "name": "Helium Oxygen",
+    "brand": "Helium Oxygen",
+    "price": 911,
+    "stock": 98
+  }, {
+    "id": 25,
+    "name": "Peppermint Oil",
+    "brand": "Anti Itch Balm",
+    "price": 968,
+    "stock": 90
+  }, {
+    "id": 26,
+    "name": "Insects (whole body), Fire Ant Mix",
+    "brand": "Insects (whole body), Fire Ant Mix",
+    "price": 1265,
+    "stock": 43
+  }, {
+    "id": 27,
+    "name": "Arnica Montana",
+    "brand": "Arnica Recovery",
+    "price": 948,
+    "stock": 59
+  }, {
+    "id": 28,
+    "name": "OCTOCRYLENE, OCTISALATE, AVOBENZONE",
+    "brand": "Total Cover FX",
+    "price": 1435,
+    "stock": 9
+  }, {
+    "id": 29,
+    "name": "Kochia scoparia",
+    "brand": "Pollens - Weeds, Kochia scoparia",
+    "price": 1727,
+    "stock": 100
+  }, {
+    "id": 30,
+    "name": "BROMPHENIRAMINE MALEATE and PSEUDOEPHEDRINE HYDROCHLORIDE",
+    "brand": "RYNEX PE",
+    "price": 1978,
+    "stock": 69
+  }, {
+    "id": 31,
+    "name": "Mycophenolate Mofetil",
+    "brand": "CellCept",
+    "price": 2158,
+    "stock": 55
+  }, {
+    "id": 32,
+    "name": "dimethicone, octinoxate, octisalate, oxybenzone",
+    "brand": "Softlips Jelly Bean",
+    "price": 1028,
+    "stock": 81
+  }, {
+    "id": 33,
+    "name": "Fluoxetine Hydrochloride",
+    "brand": "Fluoxetine",
+    "price": 2431,
+    "stock": 41
+  }, {
+    "id": 34,
+    "name": "Guaifenesin and DEXTROMETHORPHAN HYDROBROMIDE",
+    "brand": "Extra action Cough",
+    "price": 1803,
+    "stock": 81
+  }, {
+    "id": 35,
+    "name": "ESCITALOPRAM OXALATE",
+    "brand": "LEXAPRO",
+    "price": 596,
+    "stock": 55
+  }, {
+    "id": 36,
+    "name": "Pyrithione Zinc",
+    "brand": "Head and Shoulders",
+    "price": 924,
+    "stock": 26
+  }, {
+    "id": 37,
+    "name": "AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE",
+    "brand": "Rite Aid Sunscreen",
+    "price": 2005,
+    "stock": 49
+  }, {
+    "id": 38,
+    "name": "BENZALKONIUM CHLORIDE",
+    "brand": "SHOPKO Antibacterial Hands and Face",
+    "price": 912,
+    "stock": 97
+  }, {
+    "id": 39,
+    "name": "MENTHOL",
+    "brand": "NATURAL HONEY HERB COUGH SUPPRESSANT THROAT DROPS",
+    "price": 1532,
+    "stock": 5
+  }, {
+    "id": 40,
+    "name": "Ketotifen",
+    "brand": "Itchy Eye",
+    "price": 2147,
+    "stock": 51
+  }, {
+    "id": 41,
+    "name": "SALICYLIC ACID",
+    "brand": "SALICYLIC ACID",
+    "price": 957,
+    "stock": 66
+  }, {
+    "id": 42,
+    "name": "ampicillin",
+    "brand": "ampicillin",
+    "price": 846,
+    "stock": 47
+  }, {
+    "id": 43,
+    "name": "Doxorubicin Hydrochloride",
+    "brand": "Doxorubicin Hydrochloride",
+    "price": 841,
+    "stock": 26
+  }, {
+    "id": 44,
+    "name": "Aspirin",
+    "brand": "Low Dose Aspirin",
+    "price": 1606,
+    "stock": 59
+  }, {
+    "id": 45,
+    "name": "Pollens - Weeds, Dock/Sorrel Mix",
+    "brand": "Pollens - Weeds, Dock/Sorrel Mix",
+    "price": 1309,
+    "stock": 87
+  }, {
+    "id": 46,
+    "name": "Epinephrine",
+    "brand": "Epinephrine",
+    "price": 1297,
+    "stock": 63
+  }, {
+    "id": 47,
+    "name": "Treatment Set TS342370",
+    "brand": "Treatment Set TS342370",
+    "price": 544,
+    "stock": 31
+  }, {
+    "id": 48,
+    "name": "Pravastatin sodium",
+    "brand": "Pravastatin sodium",
+    "price": 1720,
+    "stock": 86
+  }, {
+    "id": 49,
+    "name": "olmesartan medoxomil and hydrochlorothiazide",
+    "brand": "BENICAR HCT",
+    "price": 764,
+    "stock": 10
+  }, {
+    "id": 50,
+    "name": "Naproxen Sodium",
+    "brand": "Naproxen Sodium",
+    "price": 853,
+    "stock": 19
+  }]
