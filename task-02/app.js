@@ -2,11 +2,16 @@
  * 1. A fájlok kezeléséhez az fs modul promise-alapú verzióját használd.
  */
 
+const fsp = require('fs').promises
+
 /**
  * 2. Állítsd be az azonos mappában található .json-fájl elérési útját a path 
  * modul join metódusának segítségével.
  */
-const jsonPath = '';
+
+const { join } = require('path')
+const jsonPath = join(__dirname, 'db', 'plants.json')
+
 
 /**
  * 3. A jsonPath útvonalon található fájl tartalmát beolvassa és értelmezi, 
@@ -15,7 +20,8 @@ const jsonPath = '';
  * @returns objektumok tömbje
  */
  const getList = async () => {
-     //
+    const content = await fsp.readFile(jsonPath, 'utf-8')
+    return JSON.parse(content)
 };
 
 /**
@@ -27,7 +33,8 @@ const jsonPath = '';
  * @returns a tömbnek az az eleme, amelynek az id-je megegyezik a kapottal
  */
 const get = async (id = 0) => {
-    //
+    const list = await getList();
+    return list.find(item => item.id === id)
 };
 
 module.exports = {
