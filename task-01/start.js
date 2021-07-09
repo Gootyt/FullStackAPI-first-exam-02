@@ -2,6 +2,8 @@
  * 1. Töltsd be az index custom modulban található függvényeket.
  */
 
+const {get, create, update, remove} = require('./index')
+
 /**
  * Ez a tömb a tesztelést szolgálja, nincs vele teendőd.
  */
@@ -82,7 +84,7 @@ const painters = [{
  * 2. Amint elkészültél, vedd ki a kommentből az alábbi kódblokkot, és tudod 
  * tesztelni a munkádat.
  */
-/*
+
 console.log(get(painters, 2));
 
 console.log(create(painters, {
@@ -99,4 +101,5 @@ console.log(update(painters, {
 }));
 
 console.log(remove(painters, 3));
-*/
+
+
